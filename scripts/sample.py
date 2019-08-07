@@ -1,6 +1,10 @@
 def init():
-    pass
+    print("DDD-INIT")
 
 
 def dummy(args):
     print(args, flush=True)
+
+
+dummy(99)
+
