@@ -1,1 +1,1 @@
-#pip install --user --upgrade streamsx.standard
+pip install --user --upgrade streamsx.standard
